@@ -1,2 +1,3 @@
 # no1
-my first github repo
+My First Github Repo
+Teacher - Shradha madam (apna college)
